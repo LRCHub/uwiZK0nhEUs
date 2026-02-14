@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ハートビート - HEARTBEAT",
+  "base_artist": "Unblock",
+  "createdAt": "2026-02-14T19:26:55.732593Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハートビート",
+      "artist": "AZKi",
+      "has_synced": false,
+      "path": "select/01_ハートビート_AZKi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハートビート",
+      "artist": "the peggies",
+      "has_synced": true,
+      "path": "select/02_ハートビート_the_peggies.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハートビート",
+      "artist": "peggies, the",
+      "has_synced": true,
+      "path": "select/03_ハートビート_peggies,_the.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハートビート",
+      "artist": "Thinking Dogs",
+      "has_synced": false,
+      "path": "select/04_ハートビート_Thinking_Dogs.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハートビート",
+      "artist": "C&K",
+      "has_synced": true,
+      "path": "select/05_ハートビート_C&K.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハートビート",
+      "artist": "moumoon",
+      "has_synced": true,
+      "path": "select/06_ハートビート_moumoon.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハートビート",
+      "artist": "Long Shot Party",
+      "has_synced": false,
+      "path": "select/07_ハートビート_Long_Shot_Party.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハートビート・クロックタワー",
+      "artist": "mothy",
+      "has_synced": false,
+      "path": "select/08_ハートビート・クロックタワー_mothy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハートビート・クロックタワー",
+      "artist": "mothy_悪ノP Feat. KAITO",
+      "has_synced": false,
+      "path": "select/09_ハートビート・クロックタワー_mothy_悪ノP_Feat._KAITO.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "バーン！バーン！ハートビート",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/10_バーン!バーン!ハートビート_KARA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ブラッドタイプ☆ハートビート",
+      "artist": "Masayoshi Oishi",
+      "has_synced": true,
+      "path": "select/11_ブラッドタイプ☆ハートビート_Masayoshi_Oishi.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハートビート・フロムユー",
+      "artist": "TOKOTOKO",
+      "has_synced": true,
+      "path": "select/12_ハートビート・フロムユー_TOKOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハートビート・フロムユー",
+      "artist": "TOKOTOKO",
+      "has_synced": false,
+      "path": "select/13_ハートビート・フロムユー_TOKOTOKO.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハートビート・フロムユー",
+      "artist": "TOKOTOKO feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/14_ハートビート・フロムユー_TOKOTOKO_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハートビート・クロックタワー",
+      "artist": "mothy_Aku no P",
+      "has_synced": false,
+      "path": "select/15_ハートビート・クロックタワー_mothy_Aku_no_P.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ハートビート・クロックタワー",
+      "artist": "mothy_悪ノP",
+      "has_synced": false,
+      "path": "select/16_ハートビート・クロックタワー_mothy_悪ノP.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ハートビート・クロックタワー",
+      "artist": "mothy (悪ノP)",
+      "has_synced": false,
+      "path": "select/17_ハートビート・クロックタワー_mothy_(悪ノP).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ハートビート・クロックタワー",
+      "artist": "EXIT TUNES",
+      "has_synced": false,
+      "path": "select/18_ハートビート・クロックタワー_EXIT_TUNES.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートビート",
+      "artist": "Unblock",
+      "has_synced": false,
+      "path": "select/pl_01_ハートビート_Unblock.txt"
+    }
+  ]
+}
